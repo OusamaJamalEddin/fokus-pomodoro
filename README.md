@@ -7,7 +7,7 @@ I actually built this for myself, even though I already have my mobile app (Buzz
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-username.github.io/your-repo-name/
+🔗 https://ousamajamaleddin.github.io/fokus-pomodoro/
 
 ---
 
