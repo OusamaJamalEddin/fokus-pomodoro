@@ -1,8 +1,8 @@
 # 🧠 Fokus Pomodoro
 
-A minimal Pomodoro timer built for quick, distraction-free focus sessions on desktop.
+A minimal Pomodoro timer built for quick, distraction free focus sessions on desktop.
 
-I actually built this for myself — even though I already have my mobile app (Buzzkill), I needed something fast on desktop… so I made this in minutes (with the help of AI 😄).
+I actually built this for myself, even though I already have my mobile app (Buzzkill), I needed something fast on desktop… so I made this in minutes (with the help of AI 😄).
 
 ---
 
